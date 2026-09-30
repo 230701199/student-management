@@ -12,7 +12,7 @@ def search_student(roll):
         if s["roll"] == roll:
             return s
 
-add_student("Arun", 101)
+add_student("Arun Studet", 101)
 add_student("asif", 102)
 
 display_students()
